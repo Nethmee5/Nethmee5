@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"></h1>
-<h3 align="center">Hi, 👋 I'm Nethmee Kumararatne , 👀 Software Developer</h3> 
-<p align="left"> nethmee</p>
+<h3 align="center">Hi, 👋 I'm Nethmee Kumararatne , Software Engineer/Developer</h3> 
+<p align="left"> I'am finding a job nowadays</p>
