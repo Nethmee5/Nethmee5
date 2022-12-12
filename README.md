@@ -24,13 +24,9 @@ Here are some ideas to get you started:
 <p align="left"> ⚡ My all time favourite things are eating junk.drink☕️.singing.. relax... travel around world...! & keep enjoying my self buddies!</p>
 
 <h4>Below are programing languages and frameworks I do..</h4>
-<h3 align="center">𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-HTML5 CSS3 JavaScript TypeScript Vue.js Nuxt.js React
+<h3 align="center">
 
-Less Sass Stylus TailwindCss Windicss
-
-Webpack Rollup Vite ESlint Git GitLab VS Code Netlify 
-  REACT JS | JAVASCRIPT | CSS | HTML | BOOSTRAP | MUI | ADOBE XD| FIGMA |VISUAL STUDIO CODE </h3>
+  REACT JS | JAVASCRIPT | CSS | HTML5 | BOOSTRAP | MUI | ADOBE XD| FIGMA |VS CODE | Git | GitLab | Bitbucket | Netlify </h3>
 
 <h3>This is my portfolio link : 'https://nethmee-kumararatne.vercel.app/'</h3>
 <h3 align="center">𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h3>
