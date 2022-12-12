@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 <p align="left"> 😄 Love the rhythem of programming and coding.</p>
 <p align="left"> ⚡ My all time favourite things are eating junk..singing.. relax... travel around world...! & keep enjoying my self buddies!</p>
 
-<h2 align="center">PROGRAMING LANGUAGES AND FRAMEWORKS I DO: REACT JS | JAVASCRIPT | CSS | HTML | BOOSTRAP | MUI | ADOBE XD| FIGMA |VISUAL STUDIO CODE | </h2>
+<h3 align="center">PROGRAMING LANGUAGES AND FRAMEWORKS I DO</h3>
+<h2 align="center">REACT JS | JAVASCRIPT | CSS | HTML | BOOSTRAP | MUI | ADOBE XD| FIGMA |VISUAL STUDIO CODE | </h2>
