@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"></h1>
-<h3 align="center">Hi, 👋 I'm Nethmee Kumararatne , Software Engineer/Developer</h3> 
+<h3 align="center">Hi, 👋 I'm Nethmee Kumararatne , Software Engineer / Software Developer</h3> 
 <p align="left">🔭 I'am finding a job after my training period. My passion is to work as a frontend software engineer. I'm major in React js.</p>
 <p align="left">👯 I’m looking to collaborate on frontend development projects.</p>
 <p align="left">💬 Ask me about any kind of frontend development tasks you have.</p>
@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 <p align="left"> ⚡ My all time favourite things are eating junk..singing.. relax... travel around world...! & keep enjoying my self buddies!</p>
 
 <h4>Below are programing languages and frameworks I do..</h4>
-<h3 align="center">REACT JS | JAVASCRIPT | CSS | HTML | BOOSTRAP | MUI | ADOBE XD| FIGMA |VISUAL STUDIO CODE | </h3>
+<h3 align="center">REACT JS | JAVASCRIPT | CSS | HTML | BOOSTRAP | MUI | ADOBE XD| FIGMA |VISUAL STUDIO CODE </h3>
+
+<h3>This is my portfolio link : 'https://nethmee-kumararatne.vercel.app/'</h3>
