@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <p align="left">📫 You can reach me by: Whatsapp - +94765839653 or email me - 'kumararatnenethmee@gmail.com' or LinkdIn - 'https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/'</p>
 <p align="left"> 😄 Love the rhythem of programming and coding.</p>
 <p align="left"> ⚡ My all time favourite things are eating junk.drink☕️.singing.. relax... travel around world...! & keep enjoying my self buddies!</p>
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+
 <h4>Below are programing languages and frameworks I do..</h4>
 <h3 align="center">REACT JS | JAVASCRIPT | CSS | HTML | BOOSTRAP | MUI | ADOBE XD| FIGMA |VISUAL STUDIO CODE </h3>
 
 <h3>This is my portfolio link : 'https://nethmee-kumararatne.vercel.app/'</h3>
-
+<h3 align="center">𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h3>
 
 
 
