@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"></h1>
 <h3 align="center">Hi, 👋 I'm Nethmee Kumararatne , Software Engineer/Developer</h3> 
-<p align="left"> I'am finding a job nowadays</p>
+<p align="left">🔭 I'am finding a job after my training period. My passion is to work as a frontend software engineer. I'm major in React js.</p>
+- 🌱 I’m currently learning ...
+
