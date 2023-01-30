@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
   REACT JS | JAVASCRIPT | CSS | HTML5 | BOOSTRAP | MUI | ADOBE XD| FIGMA | VS CODE | GIT | GITLAB | BITBUCKET  | VERCEL | NETLIFY </h3>
 
-<h3>This is my portfolio link : 'https://nethmee-kumararatne.vercel.app/'</h3>
+<h3>This is my portfolio link : 'https://nethmee-kumararatne.vercel.app/](https://my-portfolio-vert-six-91.vercel.app/'</h3>
 <h3 align="center">𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h3>
                                              
 
