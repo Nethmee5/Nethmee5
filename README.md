@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"></h1>
-<h3 align="center">Hi, 👋 I'm Nethmee Kumararatne , Software Engineer / Software Developer</h3> 
-<p align="left">🔭I'm a Frontend Developer. Mainly working with ReactJS Web Application development.</p>
-<p align="left">👯 I’m looking to collaborate on Front End development projects.</p>
-<p align="left">💬 Ask me about any kind of frontend development tasks you have.</p>
+<h3 align="center">Hi, 👋 I'm Nethmee Kumararatne </h3> 
+<p align="left">🔭I'm a Frontend Developer. Mainly working with ReactJS Web Application development</p>
+<p align="left">👯 I’m looking to collaborate on Front End development projects</p>
+<p align="left">💬 Ask me about any kind of frontend development tasks you have</p>
 <p align="left">📫 You can reach me by:
   <p align="center">Whatsapp - +94 76 583 9653</p>
   <p align="center">Email - kumararatnenethmee@gmail.com</p>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3 align="center">
 
   REACT JS | JAVASCRIPT |TYPESCRIPT | MobX | Redux | Webpack | Rest API | C# |CSS | HTML5 | BOOSTRAP | MUI | ADOBE XD| FIGMA | VS CODE | GIT | GITLAB | BITBUCKET  | AZURE </h3>
-
+  
 <h3>This is my portfolio link : https://nethmeekumararatne-portfolio.vercel.app/</h3>
 
                                              
