@@ -1,4 +1,4 @@
-### <marquee>Hi there 👋</marquee>
+
 
 <!--
 **Nethmee5/Nethmee5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <p align="left"> 😄 Love the rhythm of programming..</p>
 <p align="left"> ⚡ My hobies are eating junk...drink☕️.singing.. relax... travel around world...! & keep enjoying my self!</p>
 
-<h4>Below are programming languages and frameworks I do..</h4>
+<h4>Below are programming languages & technologies I do..</h4>
 <h3 align="center">
 
-  REACT JS | JAVASCRIPT |TYPESCRIPT | MobX | Redux | C# |CSS | HTML5 | BOOSTRAP | MUI | ADOBE XD| FIGMA | VS CODE | GIT | GITLAB | BITBUCKET  | AZURE </h3>
+  REACT JS | JAVASCRIPT |TYPESCRIPT | MobX | Redux | Webpack | Rest API | C# |CSS | HTML5 | BOOSTRAP | MUI | ADOBE XD| FIGMA | VS CODE | GIT | GITLAB | BITBUCKET  | AZURE </h3>
 
 <h3>This is my portfolio link : https://nethmeekumararatne-portfolio.vercel.app/</h3>
 
