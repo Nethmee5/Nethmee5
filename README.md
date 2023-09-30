@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"></h1>
 <h3 align="center">Hi, 👋 I'm Nethmee Kumararatne , Software Engineer / Software Developer</h3> 
-<p align="left">🔭 I'am finding a Frontend Software Engineer opportunity from overseas. My passion is to work as a frontend software engineer. I'm major in React js.</p>
-<p align="left">👯 I’m looking to collaborate on frontend development projects.</p>
+<p align="left">🔭I'm a Frontend Developer. Mainly working with ReactJS Web Application development.</p>
+<p align="left">👯 I’m looking to collaborate on Front End development projects.</p>
 <p align="left">💬 Ask me about any kind of frontend development tasks you have.</p>
 <p align="left">📫 You can reach me by: Whatsapp - +94 76 583 9653 or email me - 'kumararatnenethmee@gmail.com' or LinkdIn - 'https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/'</p>
-<p align="left"> 😄 Love the rhythem of programming and coding.</p>
-<p align="left"> ⚡ My all time favourite things are eating junk.drink☕️.singing.. relax... travel around world...! & keep enjoying my self buddies!</p>
+<p align="left"> 😄 Love the rhythm of programming..</p>
+<p align="left"> ⚡ My hobies are eating junk...drink☕️.singing.. relax... travel around world...! & keep enjoying my self!</p>
 
-<h4>Below are programing languages and frameworks I do..</h4>
+<h4>Below are programming languages and frameworks I do..</h4>
 <h3 align="center">
 
   REACT JS | JAVASCRIPT |TYPESCRIPT | MobX | Redux | C# |CSS | HTML5 | BOOSTRAP | MUI | ADOBE XD| FIGMA | VS CODE | GIT | GITLAB | BITBUCKET  | AZURE </h3>
 
-<h3>This is my portfolio link : https://my-portfolio-vert-six-91.vercel.app/ </h3>
-<h3 align="center">𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h3>
+<h3>This is my portfolio link : [https://my-portfolio-vert-six-91.vercel.app](https://nethmeekumararatne-portfolio.vercel.app/)</h3>
+
                                              
 
