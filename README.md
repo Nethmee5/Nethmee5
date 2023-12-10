@@ -6,30 +6,18 @@
 <p align="left"></p>
 <h3 align="center"> Technical Skills & My Projects </h3> 
 
-<p align="center"> 
  <!--🌱
-  <a href="https://savindu-pasintha.vercel.app">Portfolio</a> 
+  <a href="https://nethmeekumararatne-portfolio.vercel.app/">Portfolio</a> 
  🌱
 
  -->
- <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a> 
+ <a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a> 
  🌱
- <a href="https://savindupasingtha.medium.com">Medium</a> <br/> 
- <!--
- 🌱
- <a href="https://www.upwork.com/freelancers/~01a9342a0e7178f409?viewMode=1">Upwork </a> 
- 🌱
-  <a href="https://www.fiverr.com/savindupasingth?public_mode=true">Fiver</a>  
 
- 🌱
-<a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>   
-   🌱
-<a href="https://chrome.google.com/webstore/search/savindupasingtha%40gmail.com"> Chrome Store</a>
+<a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> 
   🌱
-<a href="savindupasingtha@Gmail.com">Email : savindupasingtha@gmail.com</a> 
-  🌱
-<a href="+94768755787"> +94 76 875 5787 </a>
- -->
+<a href="+94765839653"> +94 76 583 9653 </a>
+ </p>
  <!--  🌱 <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a>  -->
 </p>
 <p align="center">
