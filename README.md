@@ -51,7 +51,7 @@
   <a href="https://github.com/Nethmee5/Augmented-Reality-web-application">* Augmented-Reality-web-application</a><br/>
   <a href="https://github.com/Nethmee5/website-xiteb">* Xiteb website </a><br/>
   <a href="https://github.com/Nethmee5/building-web-application">* building-web-application</a><br/>
-  <a href="https://github.com/Nethmee5/Lot-Card-Design">* Lot-Card-Design/a><br/>
+  <a href="https://github.com/Nethmee5/Lot-Card-Design">* Lot-Card-Design</a><br/>
   <a href="https://github.com/Nethmee5/Insuarance-web-application">* Insuarance-web-application</a><br/>
   <a href="https://github.com/Nethmee5/React-dashboard-application">* React-dashboard-application</a><br/>
   <a href="https://github.com/Nethmee5/Redux-sample--project">* Redux-sample--project</a><br/>
@@ -63,168 +63,16 @@
   <a href="https://github.com/Nethmee5/Micro-services">* Micro-services</a><br/>
   <a href="https://github.com/Nethmee5/Reactjs-typescript-firebase-application">* Reactjs-typescript-firebase-application </a><br/>
   <a href="https://github.com/Nethmee5/Reactjs-Material-Table-Multi-Functional">* Reactjs-Material-Table-Multi-Functional</a><br/>
-  <a href="https://github.com/Nethmee5/Real-time-chart---reactj.s">* Real-time-chart---reactj.s/a><br/>
+  <a href="https://github.com/Nethmee5/Real-time-chart---reactj.s">* Real-time-chart---reactj.s</a><br/>
   <a href="https://github.com/Nethmee5/Java-sample-application">* Java-sample-application</a><br/>
    </td>
  </tr>
 </table>
-   
-  
- 
-
 </p>  
    
          
        
      
 
-<!--  
-      <td>
-         <p align="left">
-            <a href="https://github.com/savindu-pasintha/Reactjs-Utilities">*  Reactjs Utilities</a><br/>
-          <a href="https://system.veepmeep.com/">react - veep meep</a><br/>
-          <a href="https://veep-meep-dating-app.vercel.app">react - veep meep 2</a><br/>
-            <a href="">* nextjs - ebets web application(online money bets) - collaborate with the VenturePlan LLC (Vic Cheng) developement startup(USA)</a><br/>
-            <a href="https://biovatika-frontend.web.app/">* react - Biovatica ecommerce web application - collaborate with the relish developement startup(India)</a><br/>
-            <a href="">* react - Konsantra Professionals hiring web application - collaborate with the relish developement startup(India)</a><br/>
-            <a href="https://github.com/savindu-pasintha/OpenAI-Own-Chatbot">* Own chatbot using Open-AI CHATGPT</a><br/>
-            <a href="https://github.com/savindu-pasintha/financian-banking-site---react-tawlindc">* react - Financial banking site</a><br/>
-            <a href="https://github.com/savindu-pasintha/reactjs-realtime-chart-visualize">* react - real time charts visualize for dashboards</a><br/>
-            <a href="https://github.com/savindu-pasintha/Multi-functional-reactjs-Material-Table">* react - multi functional  material table</a><br/>
-            <a href="https://github.com/savindu-pasintha/F_faces_Reactjs_Portfolio_Site">* react - f-faces site</a><br/>
-            <a href="https://github.com/savindu-pasintha/react-admin-dashboard">* react - modern admin dashboard</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-food-delivery-website-">* react - food delivery web application</a><br/>
-             <a href="https://github.com/savindu-pasintha/Building-and-apartment-Management-Application">* react - Building & apartment management application</a><br/>
-            <a href="https://github.com/savindu-pasintha/REACT-MICRO-FRONTEND-APPLICATION">* react - micro frontend application</a><br/>
-            <a href="https://github.com/savindu-pasintha/react-folder-structure">* react - folder structure</a><br/>
-            <a href="https://github.com/savindu-pasintha/react-folder-structure">* react - side bar navigation</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-Database-Scema-Diagram-Designing-Tool-">* react - database schema generate tool</a><br/> 
-            <a href="https://github.com/savindu-pasintha/Youclever-Site-">* react - you clever developer hiring web application</a><br/>
-              <a href="https://github.com/savindu-pasintha/Screen-shairing-Vidio-Chat--Whiteboard-Tutoring-Site">* react - webRTC screen Audio , Vedio  & whiteboard sharing web application</a><br/>
-              <a href="https://github.com/savindu-pasintha/cloud-learn-x-e-class-room-front-end">* react - webRTC/janus audio . vedio , white board charing clould learnx web application</a><br/>
-           <a href="https://github.com/savindu-pasintha/new-portfolio">* react - savindu pasintha(my) portfolio</a><br/>
-           <a href="https://github.com/savindu-pasintha/netflix">* react - netflix clone</a><br/>
-            <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">* react - youtube clone</a><br/>
-            <a href="https://github.com/savindu-pasintha/Cheap-Resto-">* react - cheap resto restaurent searching web application</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-Database-Scema-Diagram-Designing-Tool-">* react - tourism admin dashboard</a><br/>
-            <a href="https://github.com/savindu-pasintha/Hotel-Management-Web-App-ReactJS-NodeJS-MySql--/tree/main/airbnb">* react - air bnb hotel management site</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-axios-firebase--my-academy-web-site-savindu">* react - my academy web site</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-portfolio-site-for-stephaneinnative-NEGOMBO">* react - stephan portfolio site</a><br/>
-            <a href="https://github.com/savindu-pasintha/juggle-and-drop-drag-and-drop-with-react-redux">* react - drag and drop task management tool</a><br/>
-            <a href="https://github.com/savindu-pasintha/React-Redux-Tutorial">* react - sample redux tutorial</a><br/>
-            <a href="https://github.com/savindu-pasintha/auth-jwt-with-React-and-Nodejs/tree/main/frontend">* react - auth jwt sample</a><br/>
-            <a href="https://github.com/savindu-pasintha/Insuarance-web-application-gasby">* gasbyjs -insuarance web app</a><br/>
-            <a href="https://github.com/savindu-pasintha/javascript-digital-clock">* javascript - digital clock</a><br/>
-            <a href="https://github.com/savindu-pasintha/CakePhp-project">* php - cake php framework project</a><br/>
-            <a href="https://github.com/savindu-pasintha/php-e-commerce-Jewelary-site-savindu">* php - jewelery ecomerce web site</a><br/>
-            <a href="https://github.com/savindu-pasintha/php-and-javascript-share-values">* php - php - javascript between share values</a><br/>
-            <a href="https://github.com/savindu-pasintha/Php-new-Shoping-cart-2021">* php - shoping cart</a><br/>
-            <a href="https://github.com/savindu-pasintha/php-mobile-shop-shopin-cart-codes">* php - ecommerce mobile shop web site</a><br/>
-            <a href="https://github.com/savindu-pasintha/PHP-ECOMMERCE-WEB-SITE-CODES">* php - ecommerce shop</a><br/>
-            <a href="https://github.com/savindu-pasintha/php">* php - basic theories</a><br/>
-            <a href="https://github.com/savindu-pasintha/asp.Net-Web-Application">* c#/asp.net - flora selling web site front end</a><br/>
-            <a href="https://github.com/savindu-pasintha/golang-web-development-series/tree/main/gowebapp">* go - web site development serious</a><br/>
-         </p>
-     </td>
-     <td>
-            <a href="https://github.com/savindu-pasintha/dubai_web_Nodejs_mysql/tree/main/backend">* nodejs - dubai career web app</a><br/>
-            <a href="https://github.com/savindu-pasintha/todo-app-react-nodejs-mysql/tree/main/nodejs%20server">* nodejs - todo app</a><br/>
-           <a href="https://github.com/savindu-pasintha/cloud-learn-x-e-class-room-back-end">* nodejs - webRTC/janus audio . vedio , white board charing clould learnx web application</a><br/>
-            <a href="https://github.com/savindu-pasintha/cheap-resto-nodejs-backend-graphql-mysql-jwt">* nodejs - cheap resto</a><br/>
-        <a href="https://github.com/savindu-pasintha/nodejs-proxy-server">* nodejs - proxy server</a><br/>
-            <a href="https://github.com/savindu-pasintha/auth-jwt-with-React-and-Nodejs/tree/main/backend">* nodejs - auth jwt</a><br/>
-            <a href="https://github.com/savindu-pasintha/Nodejs-Passport-Login">* nodejs - passportjs login</a><br/>
-       <a href="https://github.com/savindu-pasintha/nodejs-mysql-sequalize">* nodejs/mysql-squalize</a><br/>
-        <a href="https://github.com/savindu-pasintha/mongodb-with-nodejs">* nodejs/mongodb/graphql</a><br/>
-            <a href="https://github.com/savindu-pasintha/Hotel-Management-Web-App-ReactJS-NodeJS-MySql--/tree/main/backend">* nodejs - air bnb hotel management</a><br/>
-            <a href="https://github.com/savindu-pasintha/kafka-nodejs-with-consumer-and-producer">* nodejs - kafka messagin protocol</a><br/>
-            <a href="https://github.com/savindu-pasintha/role-based-access-control">* nodejs - role base access control</a><br/>
-           <a href="https://github.com/savindu-pasintha/Spring-Boot-Learning-Full-Cource-">* java/springboot - Learning full corse project</a><br/>
-          <a href="https://github.com/savindu-pasintha/spring-boot-office_management">* java/springboot - office management</a><br/>
-          <a href="https://github.com/savindu-pasintha/Spring-Boot--RestApi-Crud">* java/springboot - rest api crud operation</a><br/>
-          <a href="https://github.com/savindu-pasintha/Tourism-Springboot-backend">* java/springboot - tourism management</a><br/>
-          <a href="https://github.com/savindu-pasintha/spring-data-jpa-course">* java/springboot - spring data jpa</a><br/>
-        <a href="https://github.com/savindu-pasintha/jasper-reporting-server-with-springboot">* java/springboot - jasper reporting server</a><br/>
-          <a href="">* java ee/maven - hospital managemnet</a><br/>
-          <a href="">* java ee/maven - car garbage managment system</a><br/>
-         <a href="https://github.com/savindu-pasintha/.Net-web-API-CRUD">* c#/.net - web api crude operation</a><br/>
-      
-   </td>
-   <td>
-         <p align="left">
-           <a href="https://github.com/savindu-pasintha/Electronjes-Projects/tree/main/elecctron_with_reactjs">* typescript/React Electron app</a><br/>
-           <a href="https://github.com/savindu-pasintha/Electronjes-Projects/tree/main/Tauri%20apps/react-tauri-app1">* rust/react touri app</a><br/>
-           <a href="https://github.com/savindu-pasintha/Electronjes-Projects/tree/main/electron-app1">* javascript/electron app</a><br/>
-           <a href="https://github.com/savindu-pasintha/Electronjes-Projects">* c++/nodejs - c++ excute inside nodejs</a><br/>
-           <a href="https://github.com/savindu-pasintha/c-sharp-crud-operation-with-mysql">* c# - crud operation</a><br/>
-           <a href="https://github.com/savindu-pasintha/c-sharp-windows-application-mysql/tree/master/windows">* c#/windows - flower stock managment system</a><br/>
-           <a href="https://github.com/savindu-pasintha/QT-C-GUI-Appplication-for-Xdoto-Company">* c++/QT - defect detection ui </a><br/>
-            <a href="https://github.com/savindu-pasintha/Java-Book-Shop-Manage-with-File-Handling">* java - book shop management system</a><br/>
-            <a href="https://github.com/savindu-pasintha/Java-txt-excel-file-contert-to-xml-format-desktop-application">* java - file read/write excel,csv,xml text or etc. </a><br/>
-            <a href="https://github.com/savindu-pasintha/java-All-In-one-savindu">* java - all theories</a><br/>
-            <a href="https://github.com/savindu-pasintha/java-mysql-netbeans">* java - city mart organic foods managment desktop app</a><br/>
-         </p>
-    </td>
-  </tr>
-</table>  
-
-<table>
-    <tr>
-      <th></th>
-      <th></th>
-      <th></th>
-   </tr>
-  
-   <tr>
-     <td>
-      <p align="left">
-        <a href="https://github.com/savindu-pasintha/ExtremelPVT-Link-Android-Java-App-2022-6">* android/java - exterminal link app </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-Product-Item-with-Retrofit-Rest-Service-Java">* android/java - product item with retrofit http service   </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-Java-news-app">* android/java - news app </a><br/>
-      <a href="https://github.com/savindu-pasintha/Youtube-Android-App-Design">* android/java - youtube clone app </a><br/>
-      <a href="https://github.com/savindu-pasintha/machan-eats-Android-App">* android/java - machan eats signin/signup screens </a><br/>
-      <a href="https://github.com/savindu-pasintha/Fragments/tree/master/Fragements">* android/java - sample fragment screens</a><br/>
-      <a href="https://github.com/savindu-pasintha/DatabaseTester-android-java">* android/java - database tester app </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/BluetoothWifyHandler">* android/java - bluetooth & wifi manage app </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/Ecommerce%20Cup%20cake%20selling%20app">* android/java - full ecommerce cupcake app </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/Status-Saver-master">* android/java -  whatsapp status image/vedio downloader app</a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/WallpaperChangeApp">* android/java - wallpaper image changer app </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ContactsReader">* android/java - mobile phone contact reading app </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/Linear%20Layout%20Row-Colum%20calculater%20app">* android/java - calculater app using android row/column to linear layout </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/LayoutDataBinding">* android/java - layout binding sample app </a><br/>
-      </p>  
-   </td>    
-   <td>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ButterKnifeDemo">* android/java - butter knife demo app  </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/CustomFont">* android/java - custom font sample app </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ExternalDatabaseDemo">* android/java - external database demo app </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/Grid%20view%20array%20adapter%20using">* android/java - Grid view using array adapter</a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ImageDatabaseDemo">* android/java - image database demo app </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/NavigationDrawer">* android/java - sample navigation drawer </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/RecyclerView">* android/java - sample recycler view app </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/cart%20item%20view%20baseAdapter">* android/java - sample base adapter using view cart items </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/customizedlistview">* android/java - sample customized list view </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/eventhandling">* android/java -  events handling(click event) app</a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/layouts">* android/java - sample layout app </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/simplelistview">* android/java -  sample list view app</a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/spinner">* android/java - android spiner load app  </a><br/>
-        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/projects">* android/kotlin - calculator app </a><br/>
-  </td>  
-  <td>
-       <a href="https://github.com/savindu-pasintha/fluter/tree/main/adobe%20xported%20fluter%20codes">*  flutter - adobe xd exported flutter code </a><br/>
-       <a href="https://github.com/savindu-pasintha/fluter/tree/main/chat%20_app_codes">*  flutter - chat app</a><br/>
-       <a href="https://github.com/savindu-pasintha/fluter/tree/main/bank%20account%20handle%20app%20fluter%20codes">*  flutter - bank account handle app</a>      <br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/firebase%20crude%20operation%20with%20fluter">*  flutter - firebase crude operation</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/firebase%20image%20operation">*  flutter - firebase image operation</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter%20savindu%20calculater%20app%20code">*  flutter - calculator app</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter%20theory%20list%20view">* list view flutter</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_stream_api_chat%20app%20codes">*  flutter - stream api  caht app</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/music%20app%20codes%20fluter%20dart">*  flutter - music app</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_food_lab_codes%2015%20mode%20dart%20files">*  flutter - food delivery</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/blob/main/flutter_tutorial.pdf">* flutter - tutorial pdf</a><br/> 
-      <a href="https://github.com/savindu-pasintha/react-native-sales-play-dashboard">* react native - sales play pos dashboard app</a><br/>
-      <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">* react native - uber eats clone</a><br/>
-      <a href="https://github.com/savindu-pasintha/React-Native-Air-Pollution-App">*     react native - air polution app </a><br/>
--->
 
 
