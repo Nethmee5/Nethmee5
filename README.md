@@ -1,44 +1,28 @@
 <h1 align="center"></h1>
 <p align="left"> I am open to work.</p>
-<p align="left"> I'm a software engineer with 6 years of experience in both frontend and backend development, specializing in creating digital products and software solutions using the latest programming languages and technologies. 
+<p align="left"> I'm a software engineer with 5 years of experience in frontend development and I have worked on both frontend and backend project development under various domains.  specializing in building innovative products and software applications by using the latest programming languages and technologies. 
 <br/> 
- I hold a Bachelor of Computer Science (BCS) degree in Software Engineering from Cardiff Metropolitan University, United Kingdom.</p>
+ I have followed a BSc(Hons) Software Engineering degree from the University of Plymouth in the United Kingdom</p>
 <p align="left"></p>
 <h3 align="center"> Technical Skills & My Projects </h3> 
 
 <p align="center"> 
  <!--🌱
-  <a href="https://savindu-pasintha.vercel.app">Portfolio</a> 
+  <a href="https://nethmeekumararatne-portfolio.vercel.app/">Portfolio</a> 
  🌱
 
  -->
- <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a> 
+ <a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a> 
  🌱
- <a href="https://savindupasingtha.medium.com">Medium</a> <br/> 
- <!--
- 🌱
- <a href="https://www.upwork.com/freelancers/~01a9342a0e7178f409?viewMode=1">Upwork </a> 
- 🌱
-  <a href="https://www.fiverr.com/savindupasingth?public_mode=true">Fiver</a>  
 
- 🌱
-<a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>   
-   🌱
-<a href="https://chrome.google.com/webstore/search/savindupasingtha%40gmail.com"> Chrome Store</a>
+<a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> 
   🌱
-<a href="savindupasingtha@Gmail.com">Email : savindupasingtha@gmail.com</a> 
-  🌱
-<a href="+94768755787"> +94 76 875 5787 </a>
+<a href="+94765839653"> +94 76 583 9653 </a>
  -->
  <!--  🌱 <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a>  -->
 </p>
-<p align="center">
 
- <!-- 🌱 🌱
-<a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>
- <a href="+94768755787"> Call :  +94 76 875 5787 </a>
- 🌱 -->
- </p>
+
 
  <!--
 <p align="center"> ✨ I am Full Stack Software Engineer ( Web / IOS & Android Mobile App | Ecommerce | Mobile Application Reverse Engineering ) Application development with multiple companies with multiple Technologies in these days.💞️</p>
