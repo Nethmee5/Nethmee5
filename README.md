@@ -21,11 +21,8 @@
 
 <h3 align="center">Projects</h3> 
 
-<table>
-    <tr><th></th><th> </th><th>  </th></tr>
-    <tr>
-      <td>
-         <p align="left">
+
+        <p align="left">
             <a href="https://github.com/Nethmee5/chat-example">* Chat Application - Reactjs</a><br/>
             <a href="https://github.com/Nethmee5/Food-receipe-app-react">* Food recipe App</a><br/>
             <a href="https://github.com/Nethmee5/MediaPlayer-C-">* C++ Media Player Application</a><br/>
@@ -49,8 +46,7 @@
   <a href="https://yourportfoliosa.netlify.app">* stephan porfolio - react</a><br/>
  
 </p>  
-   </td>
-      <td> 
+   
          <a href="https://github.com/Nethmee5/React-multi-carousel">* React-multi-carousel</a><br/>
          <a href="https://github.com/Nethmee5/Landing-page-Frontend">* Landing-page-Frontend</a><br/>
          <a href="https://github.com/Nethmee5/three.js">* Three.js</a><br/>
@@ -58,7 +54,7 @@
         <a href="https://github.com/Nethmee5/Api-learning-new">* API Learning/a><br/>
          <a href="https://github.com/Nethmee5/Test">* Test Project</a><br/>
        
-      </td>
+     
 
 <!--  
       <td>
@@ -207,9 +203,6 @@
       <a href="https://github.com/savindu-pasintha/react-native-sales-play-dashboard">* react native - sales play pos dashboard app</a><br/>
       <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">* react native - uber eats clone</a><br/>
       <a href="https://github.com/savindu-pasintha/React-Native-Air-Pollution-App">*     react native - air polution app </a><br/>
- </td>   
- </tr>-->
-</table>
-
+-->
 
 
