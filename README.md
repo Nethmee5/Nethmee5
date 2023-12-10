@@ -51,7 +51,7 @@
 </p>  
    </td>
       <td> 
-         <a href=" https://github.com/Nethmee5/React-multi-carousel">* React-multi-carousel</a><br/>
+         <a href="https://github.com/Nethmee5/React-multi-carousel">* React-multi-carousel</a><br/>
          <a href="https://github.com/Nethmee5/Landing-page-Frontend">* Landing-page-Frontend</a><br/>
          <a href="https://github.com/Nethmee5/three.js">* Three.js</a><br/>
          <a href=" https://github.com/Nethmee5/.net-API">* .net-API Learning</a><br/>
@@ -59,16 +59,8 @@
          <a href="https://github.com/Nethmee5/Test">* Test Project</a><br/>
        
       </td>
-    </tr>  
-</table>  
-  
-<table>
-  <tr>
-      <th></th>
-      <th></th>
-      <th></th>
-  </tr>
-   <tr>
+
+<!--  
       <td>
          <p align="left">
             <a href="https://github.com/savindu-pasintha/Reactjs-Utilities">*  Reactjs Utilities</a><br/>
@@ -216,7 +208,7 @@
       <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">* react native - uber eats clone</a><br/>
       <a href="https://github.com/savindu-pasintha/React-Native-Air-Pollution-App">*     react native - air polution app </a><br/>
  </td>   
- </tr>
+ </tr>-->
 </table>
 
 
