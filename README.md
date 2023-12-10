@@ -22,18 +22,7 @@
 <h3 align="center">Projects</h3> 
 
    <p align="left">
-  <a href="https://webdev.vpsveritas.com/index.html">* vps web application </a><br/>
-  <a href="https://vpscpdev.z6.web.core.windows.net/">* vps web application - React dashboard</a> <br/>
-  <a href="https://react-admin-dashboard-delta.vercel.app">* react admin dashboard</a> <br/>
-  <a href="https://reactjs-realtime-chart-visualize.vercel.app">* reactjs realtime charts visualize for dashboards</a> <br/>
-  <a href="https://financian-banking-site-react-tawlindc.vercel.app">* banking website - react/tawlind css</a><br/> 
-  <a href="https://food-delivery-ecommerce-app.netlify.app">* food delivery website reactjs</a><br/>
-  <a href="https://f-faces-5c62qkkvb-savindu-pasintha.vercel.app"> * f-faces - react</a><br/>
-  <a href="https://github.com/savindu-pasintha/react-sidebar-Navigation">* react-sidebar-Navigation</a><br/>
-  <a href="https://chat-example-coral.vercel.app">* chat app - nodejs socket.io</a><br/>
-  <a href="https://reactjs-database-scema-diagram-designing-tool.vercel.app">* database schema design tool - react </a><br/>
-  <a href="https://youclever.netlify.app">* you clever - react </a><br/>
-  <a href="https://yourportfoliosa.netlify.app">* stephan porfolio - react</a><br/>
+ 
   <a href="https://github.com/Nethmee5/chat-example">* Chat Application - Reactjs</a><br/>
   <a href="https://github.com/Nethmee5/Food-receipe-app-react">* Food recipe App</a><br/>
   <a href="https://github.com/Nethmee5/MediaPlayer-C-">* C++ Media Player Application</a><br/>
@@ -43,7 +32,7 @@
   <a href="https://github.com/Nethmee5/React-multi-carousel">* React-multi-carousel</a><br/>
   <a href="https://github.com/Nethmee5/Landing-page-Frontend">* Landing-page-Frontend</a><br/>
   <a href="https://github.com/Nethmee5/three.js">* Three.js</a><br/>
-  <a href=" https://github.com/Nethmee5/.net-API">* .net-API Learning</a><br/>
+  <a href="https://github.com/Nethmee5/.net-API">* .net-API Learning</a><br/>
   <a href="https://github.com/Nethmee5/Api-learning-new">* API Learning/a><br/>
   <a href="https://github.com/Nethmee5/Test">* Test Project</a><br/>
 </p>  
