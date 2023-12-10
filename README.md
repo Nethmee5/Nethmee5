@@ -22,7 +22,10 @@
 <h3 align="center">Projects</h3> 
 
    <p align="left">
- 
+  <a href="https://github.com/Nethmee5/Reactjs-realtime-chart-visualize">* Reactjs-realtime-chart-visualize </a><br/>
+  <a href="https://github.com/Nethmee5/Reactjs-Material-Table-Multi-Functional">* Reactjs-Material-Table-Multi-Functional</a><br/>
+  <a href="https://github.com/Nethmee5/Frontend-Reactjs">* Frontend-Reactjs/a><br/>
+  <a href="https://github.com/Nethmee5/Reactjs-e-commerce-application">* Reactjs-e-commerce-application</a><br/>
   <a href="https://github.com/Nethmee5/chat-example">* Chat Application - Reactjs</a><br/>
   <a href="https://github.com/Nethmee5/Food-receipe-app-react">* Food recipe App</a><br/>
   <a href="https://github.com/Nethmee5/MediaPlayer-C-">* C++ Media Player Application</a><br/>
@@ -35,7 +38,6 @@
   <a href="https://github.com/Nethmee5/.net-API">* .net-API Learning</a><br/>
   <a href="https://github.com/Nethmee5/Api-learning-new">* API Learning/a><br/>
   <a href="https://github.com/Nethmee5/Test">* Test Project</a><br/>
-
   <a href="https://github.com/Nethmee5/E-commerce-web-application-React-js">* E-commerce-web-application-React-js</a><br/>
   <a href="https://github.com/Nethmee5/React-Booking-app">* React-Booking-app</a><br/>
   <a href="https://github.com/Nethmee5/Augmented-Reality-web-application">* Augmented-Reality-web-application</a><br/>
@@ -43,13 +45,16 @@
   <a href="https://github.com/Nethmee5/building-web-application">* building-web-application</a><br/>
   <a href="https://github.com/Nethmee5/Lot-Card-Design">* Lot-Card-Design/a><br/>
   <a href="https://github.com/Nethmee5/Insuarance-web-application">* Insuarance-web-application</a><br/>
-
+  <a href=" https://github.com/Nethmee5/React-dashboard-application">* React-dashboard-application</a><br/>
+  <a href="https://github.com/Nethmee5/Redux-sample--project">* Redux-sample--project</a><br/>
   <a href="https://github.com/Nethmee5/Beauty-Salon-App-UI-UX-design">* Beauty-Salon-App-UI-UX-design</a><br/>
   <a href="https://github.com/Nethmee5/-React-portfolio-project">* React-portfolio-project</a><br/>
-  <a href="https://github.com/Nethmee5/Reactjs-realtime-chart-visualize">* Reactjs-realtime-chart-visualize </a><br/>
+  <a href="https://github.com/Nethmee5/SignUp-form-frontend-development">* SignUp-form-frontend-development</a><br/>
+  <a href=" https://github.com/Nethmee5/Micro-services">* Micro-services</a><br/>
+  <a href="https://github.com/Nethmee5/Reactjs-typescript-firebase-application">* Reactjs-typescript-firebase-application </a><br/>
   <a href="https://github.com/Nethmee5/Reactjs-Material-Table-Multi-Functional">* Reactjs-Material-Table-Multi-Functional</a><br/>
-  <a href="https://github.com/Nethmee5/Frontend-Reactjs">* Frontend-Reactjs/a><br/>
-  <a href="https://github.com/Nethmee5/Reactjs-e-commerce-application">* Reactjs-e-commerce-application</a><br/>
+  <a href="https://github.com/Nethmee5/Real-time-chart---reactj.s">* Real-time-chart---reactj.s/a><br/>
+  <a href="https://github.com/Nethmee5/Java-sample-application">* Java-sample-application</a><br/>
 </p>  
    
          
