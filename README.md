@@ -21,16 +21,6 @@
 
 <h3 align="center">Projects</h3> 
 
-
-        <p align="left">
-            <a href="https://github.com/Nethmee5/chat-example">* Chat Application - Reactjs</a><br/>
-            <a href="https://github.com/Nethmee5/Food-receipe-app-react">* Food recipe App</a><br/>
-            <a href="https://github.com/Nethmee5/MediaPlayer-C-">* C++ Media Player Application</a><br/>
-            <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
-            <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
-            <a href="https://github.com/Nethmee5/nodejs-backend">* NodeJs backend</a><br/>
-         </p>
-
    <p align="left">
   <a href="https://webdev.vpsveritas.com/index.html">* vps web application </a><br/>
   <a href="https://vpscpdev.z6.web.core.windows.net/">* vps web application - React dashboard</a> <br/>
@@ -44,15 +34,21 @@
   <a href="https://reactjs-database-scema-diagram-designing-tool.vercel.app">* database schema design tool - react </a><br/>
   <a href="https://youclever.netlify.app">* you clever - react </a><br/>
   <a href="https://yourportfoliosa.netlify.app">* stephan porfolio - react</a><br/>
- 
+  <a href="https://github.com/Nethmee5/chat-example">* Chat Application - Reactjs</a><br/>
+  <a href="https://github.com/Nethmee5/Food-receipe-app-react">* Food recipe App</a><br/>
+  <a href="https://github.com/Nethmee5/MediaPlayer-C-">* C++ Media Player Application</a><br/>
+  <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
+  <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
+  <a href="https://github.com/Nethmee5/nodejs-backend">* NodeJs backend</a><br/>
+  <a href="https://github.com/Nethmee5/React-multi-carousel">* React-multi-carousel</a><br/>
+  <a href="https://github.com/Nethmee5/Landing-page-Frontend">* Landing-page-Frontend</a><br/>
+  <a href="https://github.com/Nethmee5/three.js">* Three.js</a><br/>
+  <a href=" https://github.com/Nethmee5/.net-API">* .net-API Learning</a><br/>
+  <a href="https://github.com/Nethmee5/Api-learning-new">* API Learning/a><br/>
+  <a href="https://github.com/Nethmee5/Test">* Test Project</a><br/>
 </p>  
    
-         <a href="https://github.com/Nethmee5/React-multi-carousel">* React-multi-carousel</a><br/>
-         <a href="https://github.com/Nethmee5/Landing-page-Frontend">* Landing-page-Frontend</a><br/>
-         <a href="https://github.com/Nethmee5/three.js">* Three.js</a><br/>
-         <a href=" https://github.com/Nethmee5/.net-API">* .net-API Learning</a><br/>
-        <a href="https://github.com/Nethmee5/Api-learning-new">* API Learning/a><br/>
-         <a href="https://github.com/Nethmee5/Test">* Test Project</a><br/>
+         
        
      
 
