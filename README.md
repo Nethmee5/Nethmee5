@@ -3,7 +3,7 @@
 <p align="left"> I'm a software engineer with 5 years of experience in frontend development and I have worked on both frontend and backend project development under various domains.  specializing in building innovative products and software applications by using the latest programming languages and technologies. 
 <br/> 
  I have followed a BSc(Hons) Software Engineering degree from the University of Plymouth in the United Kingdom</p>
-<p align="left"></p>
+<p align="left">
 <!--🌱
   <a href="https://nethmeekumararatne-portfolio.vercel.app/">Portfolio</a> 
  🌱
@@ -24,6 +24,7 @@
 <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>
  <a href="+94768755787"> Call :  +94 76 875 5787 </a>
  🌱 -->
+ </p>
  </p>
 <h3 align="center"> Technical Skills & My Projects </h3> 
 
