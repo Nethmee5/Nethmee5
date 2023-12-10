@@ -7,9 +7,9 @@
   <!--🌱
   <a href="https://nethmeekumararatne-portfolio.vercel.app/">Portfolio</a> 
  🌱-->
-<a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a> 
-<a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> 
-<a href="+94765839653"> +94 76 583 9653 </a>
+<a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a><br/>
+<a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> <br/>
+<a href="+94765839653"> +94 76 583 9653 </a><br/>
  🌱
 
  </p>
