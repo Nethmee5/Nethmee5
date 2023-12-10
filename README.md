@@ -1,9 +1,9 @@
 
-<h2 align="center">Hi there!🌱</h2>
+<h2 align="center">Hi there!👋</h2>
 <p align="left"> I am open to work.</p>
 <p align="left"> I'm a software engineer with 5 years of experience in frontend development and I have worked on both frontend and backend project development under various domains.  specializing in building innovative products and software applications by using the latest programming languages and technologies. 
 <br/> 
- I have followed a BSc(Hons) Software Engineering degree from the University of Plymouth in the United Kingdom</p>
+ I have followed a BSc(Hons) Software Engineering degree 👨‍🎓 from the University of Plymouth in the United Kingdom</p>
 <p align="left">
   <!--🌱
   <a href="https://nethmeekumararatne-portfolio.vercel.app/">Portfolio</a> 
@@ -26,8 +26,15 @@
     <tr>
       <td>
          <p align="left">
-            <a href="https://github.com/savindu-pasintha/chrome-extentions-development">* chrome extention development</a><br/>
-            <a href="https://github.com/savindu-pasintha/Thermal-Printing-Software-Solution-USB-Supported">* Thermal Printer SDK For Windows Operating System</a><br/>
+            <a href="https://github.com/Nethmee5/chat-example">* Chat Application - Reactjs</a><br/>
+            <a href="https://github.com/Nethmee5/Food-receipe-app-react">* Food recipe App</a><br/>
+            <a href="https://github.com/Nethmee5/MediaPlayer-C-">* C++ Media Player Application</a><br/>
+            <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
+            <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
+            <a href="https://github.com/Nethmee5/nodejs-backend">* NodeJs backend</a><br/>
+
+
+     
          </p>
        </td>
        <td>
