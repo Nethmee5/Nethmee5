@@ -1,5 +1,4 @@
 
-<h2 align="center">Hi there!👋</h2>
 <p align="left"> I am open to work.</p>
 <p align="left"> I'm a software engineer with 5 years of experience in frontend development and I have worked on both frontend and backend project development under various domains.  specializing in building innovative products and software applications by using the latest programming languages and technologies. 
 <br/> 
