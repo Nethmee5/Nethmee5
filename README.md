@@ -1,8 +1,8 @@
 <h1 align="center"></h1>
 <p align="left"> I am open to work.</p>
-<p align="left"> I'm a software engineer with 6 years of experience in both frontend and backend development, specializing in creating digital products and software solutions using the latest programming languages and technologies. 
+<p align="left"> I'm a software engineer with 5 years of experience in frontend development and I have worked on both frontend and backend project development under various domains.  specializing in building innovative products and software applications by using the latest programming languages and technologies. 
 <br/> 
- I hold a Bachelor of Computer Science (BCS) degree in Software Engineering from Cardiff Metropolitan University, United Kingdom.</p>
+ I have followed a BSc(Hons) Software Engineering degree from the University of Plymouth in the United Kingdom</p>
 <p align="left"></p>
 <h3 align="center"> Technical Skills & My Projects </h3> 
 
