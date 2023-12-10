@@ -32,12 +32,20 @@
             <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
             <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
             <a href="https://github.com/Nethmee5/nodejs-backend">* NodeJs backend</a><br/>
-
+         </p>
+      </td>
+      <td>
+         <p align="left">
+            <a href="https://github.com/Nethmee5/chat-example">* Chat Application - Reactjs</a><br/>
+            <a href="https://github.com/Nethmee5/Food-receipe-app-react">* Food recipe App</a><br/>
+            <a href="https://github.com/Nethmee5/MediaPlayer-C-">* C++ Media Player Application</a><br/>
+            <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
+            <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
+            <a href="https://github.com/Nethmee5/nodejs-backend">* NodeJs backend</a><br/>
+      </td>
 
      
-         </p>
-       </td>
-       <td>
+     
    <p align="left">
   <a href="https://webdev.vpsveritas.com/index.html">* vps web application </a><br/>
   <a href="https://vpscpdev.z6.web.core.windows.net/">* vps web application - React dashboard</a> <br/>
