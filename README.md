@@ -218,9 +218,3 @@
 
 
 
-[![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/savindu-pasintha)
-
-<br/>
-<br/>
-
-
