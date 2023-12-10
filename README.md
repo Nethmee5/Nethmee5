@@ -34,7 +34,7 @@
   <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
   </td>
    <td>
-    <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
+  <a href="https://github.com/Nethmee5/Calculator-Javascript">* Javascript-Calculator</a><br/>
   <a href="https://github.com/Nethmee5/nodejs-backend">* NodeJs backend</a><br/>
   <a href="https://github.com/Nethmee5/React-multi-carousel">* React-multi-carousel</a><br/>
   <a href="https://github.com/Nethmee5/Landing-page-Frontend">* Landing-page-Frontend</a><br/>
@@ -47,7 +47,7 @@
  </tr>
  <tr>
   <td>
-    <a href="https://github.com/Nethmee5/E-commerce-web-application-React-js">* E-commerce-web-application-React-js</a><br/>
+  <a href="https://github.com/Nethmee5/E-commerce-web-application-React-js">* E-commerce-web-application-React-js</a><br/>
   <a href="https://github.com/Nethmee5/React-Booking-app">* React-Booking-app</a><br/>
   <a href="https://github.com/Nethmee5/Augmented-Reality-web-application">* Augmented-Reality-web-application</a><br/>
   <a href="https://github.com/Nethmee5/website-xiteb">* Xiteb website </a><br/>
@@ -58,7 +58,7 @@
   <a href="https://github.com/Nethmee5/Redux-sample--project">* Redux-sample--project</a><br/>
   </td>
    <td>
-      <a href="https://github.com/Nethmee5/Beauty-Salon-App-UI-UX-design">* Beauty-Salon-App-UI-UX-design</a><br/>
+  <a href="https://github.com/Nethmee5/Beauty-Salon-App-UI-UX-design">* Beauty-Salon-App-UI-UX-design</a><br/>
   <a href="https://github.com/Nethmee5/-React-portfolio-project">* React-portfolio-project</a><br/>
   <a href="https://github.com/Nethmee5/SignUp-form-frontend-development">* SignUp-form-frontend-development</a><br/>
   <a href="https://github.com/Nethmee5/Micro-services">* Micro-services</a><br/>
