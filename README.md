@@ -66,6 +66,10 @@
   <a href="https://github.com/Nethmee5/Real-time-chart---reactj.s">* Real-time-chart---reactj.s</a><br/>
   <a href="https://github.com/Nethmee5/Java-sample-application">* Java-sample-application</a><br/>
    </td>
+   <td>
+  <a href="https://github.com/Nethmee5/React-HTML-CSS-website-development">* Montain website development</a><br/>
+  <a href="https://github.com/Nethmee5/Smart-wastage-management-system">* IOT based Smart Waste Mangement System</a><br/>
+   </td>
  </tr>
 </table>
 </p>  
