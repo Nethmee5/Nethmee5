@@ -67,10 +67,11 @@
   <a href="https://github.com/Nethmee5/Java-sample-application">* Java-sample-application</a><br/>
    </td>
    <td>
-  <a href="https://github.com/Nethmee5/React-HTML-CSS-website-development">* Montain website development</a><br/>
+  <a href="https://github.com/Nethmee5/React-HTML-CSS-website-development">* Mountain website development</a><br/>
   <a href="https://github.com/Nethmee5/Smart-wastage-management-system">* IOT based Smart Waste Mangement System</a><br/>
   <a href="https://github.com/Nethmee5/Health-care-management-system">* Health Care Management System Mobile App</a><br/>
   <a href="https://github.com/Nethmee5/Library-Management-System-Database-Project">* Library Management System Database Application</a><br/>
+  <a href="https://github.com/Nethmee5/Media-player-application-built-with-C-">* C++ Media Player Desktop Application</a><br/>
 
 
    </td>
