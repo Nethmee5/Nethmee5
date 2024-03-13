@@ -19,20 +19,20 @@
      <meta property="medium:type" content="wesite">
 </head>
 <body>
-   
-<p align="left"> I am open for relocation opportuniies to work.</p>
-<p align="left"> I'm a software engineer with 6+ years of experience in frontend development and I have worked on both frontend and backend project development under various domains.  specializing in building innovative products and Insuarance and Finance applications applications using the latest programming languages and technologies. 
+
+<p align="left"> I'm a software engineer with 6+ years of experience in frontend development and I have worked on both frontend and backend project development under various domains specializing in building innovative products and software applications using the latest programming languages and technologies.   
+<p align="left"> I am open for relocation opportunies around the world to work.</p>
 <br/> 
 <p>Front-end frameworks:</p>
 <p>ReactJs, Javascript, Typescript, AJAX, Vue.JS, JQuery, HTML5, CSS3, SCSS, JSX, ES6, Eslint, DOM manipulation, ECMAScript, ReactJs Virtual DOM, React - Router, npm, webpack, hooks, redux, middleware, RXJS , Boostrap, Media Query, Material UI, C#, Asp.Net, MVC</p>
 
-   Back-end programming languages/frameworks & Databases:
-NodeJS, PHP, Java, Spring Boot, C#, .NET/.NET Core, .NET Framework, SQL Server, Relational Databases (MySQL), 
-   Version Control Technologies: Azure, GIT, GitHub, Gitlab, Bitbucket,
-Development Technologies: REST APIs, JSON, XML, CI/CD pipelines, Micro-Frontend architecture, Windows, IIS Server, Web API, AWS, HTTP
-IDE & tools: WordPress, Adobe Photoshop, Visual Studio, Prettier, Figma, Adobe XD, Adobe Photoshop CS, POSTMAN
-Other skills: Agile methodology, Waterfall methodology, Automation, QA, Scrum, Object Oriented Analysis and    Design, Software development life cycle (SDLC), Responsiveness Design, graphic design (Adobe Illustrator), SAAS, Single page web applications SEO practices, content management systems development, AR, Proof-Of-Concept (POC), Software services, manage technical risks/issues
-Passionate and curious to learn, Innovative, Creative, Research, Good problem solve skills. Good verbal communication skills, Analytical skills, Independent work, Update with latest technologies. 
+<p>Back-end programming languages/frameworks & Databases:</p>
+<p>NodeJS, PHP, Java, Spring Boot, C#, .NET/.NET Core, .NET Framework, SQL Server, Relational Databases (MySQL) </p>
+<p>Version Control Technologies: Azure, GIT, GitHub, Gitlab, Bitbucket</p>
+<p>Development Technologies: REST APIs, JSON, XML, CI/CD pipelines, Micro-Frontend architecture, Windows, IIS Server, Web API, AWS, HTTP </p>
+<p>IDE & tools: WordPress, Adobe Photoshop, Visual Studio, Prettier, Figma, Adobe XD, Adobe Photoshop CS, POSTMAN </p>
+<p>Other skills: Agile methodology, Waterfall methodology, Automation, QA, Scrum, Object Oriented Analysis and    Design, Software development life cycle (SDLC), Responsiveness Design, graphic design (Adobe Illustrator), SAAS, Single page web applications SEO practices, content management systems development, AR, Proof-Of-Concept (POC), Software services, manage technical risks/issues </p>
+<p>Passionate and curious to learn, Innovative, Creative, Research, Good problem solve skills. Good verbal communication skills, Analytical skills, Independent work, Update with latest technologies.  </p>
    
  I have followed a BSc(Hons) Software Engineering degree 👨‍🎓 from the University of Plymouth in the United Kingdom.</p>
 <p align="left">
