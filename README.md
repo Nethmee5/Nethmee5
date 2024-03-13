@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Your website description goes here.">
+    <meta name="description" content="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/">
     <meta name="keywords" content="keyword1, keyword2, keyword3">
-    <meta name="author" content="Your Name">
+    <meta name="author" content="Nethmee Kumararatne">
 
 
 </head>
