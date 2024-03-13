@@ -19,8 +19,8 @@
      <meta property="medium:type" content="wesite">
 </head>
 <body>
-
-<p align="left"> <b>HEY!👋</b>I'm a software engineer with 6+ years of experience in frontend development and I have worked on both frontend and backend project development under various domains specializing in building innovative products and software applications using the latest programming languages and technologies.</p>
+<p> b>HEY!👋 </b></p>
+<p align="left"> I'm a software engineer with 6+ years of experience in frontend development and I have worked on both frontend and backend project development under various domains specializing in building innovative products and software applications using the latest programming languages and technologies.</p>
 <p> I am open for relocation opportunies around the world to work..</p>
 <p> I have followed a BSc(Hons) Software Engineering degree 👨‍🎓 from the University of Plymouth in the United Kingdom.</p>
 <p align="left">
