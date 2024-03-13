@@ -20,16 +20,17 @@
 </head>
 <body>
 
-<p align="left"> I'm a software engineer with 6+ years of experience in frontend development and I have worked on both frontend and backend project development under various domains specializing in building innovative products and software applications using the latest programming languages and technologies.</br>
- I am open for relocation opportunies around the world to work..</p>
-I have followed a BSc(Hons) Software Engineering degree 👨‍🎓 from the University of Plymouth in the United Kingdom.</p>
+<p align="left"> I'm a software engineer with 6+ years of experience in frontend development and I have worked on both frontend and backend project development under various domains specializing in building innovative products and software applications using the latest programming languages and technologies.</p>
+<p> I am open for relocation opportunies around the world to work..</p>
+<p> I have followed a BSc(Hons) Software Engineering degree 👨‍🎓 from the University of Plymouth in the United Kingdom.</p>
 <p align="left">
   <!--🌱
   <a href="https://nethmeekumararatne-portfolio.vercel.app/">Portfolio</a> 
  🌱-->
 <a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a><br/>
+<a href="(https://medium.com/@kumararatnenethmee)" target="blank">Medium</a><br/>
 <a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> <br/>
-<a href="+94765839653"> +94 76 583 9653 </a><br/>
+<a href="+94765839653"> +94 765839653 </a><br/>
  
 
  </p>
