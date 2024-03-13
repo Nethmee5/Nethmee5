@@ -6,15 +6,17 @@
     <meta name="description" content="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/">
     <meta name="keywords" content="Frontend Developer, ReactJs, Open for relocation">
     <meta name="author" content="Nethmee Kumararatne">
-    <meta property="og:title" content="Your Website Title">
-    <meta property="og:description" content="Your website description goes here.">
-    <meta property="og:url" content="https://www.yourwebsite.com">
-    <meta property="og:image" content="https://www.yourwebsite.com/images/your-image.jpg">
+    <meta property="og:title" content="Nethmee Kumararatne">
+    <meta property="og:description" content="I'm Nethmee Kumararatne. I'm a Software Engineer and have 6 years of experience in Frontend Development with React.Js and other frontend frameworks and programming languages. I have completed BSC(Hons)Software Engineering at University of Plymouth, United Kingdom in 2022. I worked in many foriegn national companies in previously. Now I'm lokking for a relocation opportunity to Singapore, Europe, Australiya, UK and USA countries.">
+    <meta property="og:url" content="(https://nethmeekumararatne-portfolio.vercel.app/](https://nethmeekumararatne-portfolio.vercel.app/)">
     <meta property="og:type" content="website">
-    <meta name="twitter:title" content="Your Website Title">
-    <meta name="twitter:description" content="Your website description goes here.">
-    <meta name="twitter:image" content="https://www.yourwebsite.com/images/your-image.jpg">
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="linkedin:title" content="Nethmee Kumararatne">
+  <meta property="linkedin:url" content="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/">
+    <meta name="linkedin:description" content="Software Engineer | ReactJs Development | UIUX Design | Coding | QA & Testing | Debugging | Technical Support | Communication|| Open to relocate📌👋 || React || .NET || Web Services || SDLC || MySQL 💻🌏">
+    <meta name="linkedin:image" content="(https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)">
+    <meta name="linkedin:card" content="summary_large_image">
+      <meta property="medium:url" content="https://medium.com/@kumararatnenethmee">
+     <meta property="medium:type" content="wesite">
 </head>
 <body>
    
