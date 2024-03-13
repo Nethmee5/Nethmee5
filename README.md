@@ -7,21 +7,7 @@
     <meta name="keywords" content="keyword1, keyword2, keyword3">
     <meta name="author" content="Your Name">
 
-    <!-- Open Graph meta tags for social media -->
-    <meta property="og:title" content="Your Website Title">
-    <meta property="og:description" content="Your website description goes here.">
-    <meta property="og:url" content="https://www.yourwebsite.com">
-    <meta property="og:image" content="https://www.yourwebsite.com/images/your-image.jpg">
-    <meta property="og:type" content="website">
-    
-    <!-- Twitter Card meta tags for Twitter -->
-    <meta name="twitter:title" content="Your Website Title">
-    <meta name="twitter:description" content="Your website description goes here.">
-    <meta name="twitter:image" content="https://www.yourwebsite.com/images/your-image.jpg">
-    <meta name="twitter:card" content="summary_large_image">
 
-    <!-- Title of the page -->
-    <title>Your Website Title</title>
 </head>
 <body>
    
