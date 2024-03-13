@@ -4,10 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/">
-    <meta name="keywords" content="keyword1, keyword2, keyword3">
+    <meta name="keywords" content="Frontend Developer, ReactJs, Open for relocation">
     <meta name="author" content="Nethmee Kumararatne">
-
-
+    <meta property="og:title" content="Your Website Title">
+    <meta property="og:description" content="Your website description goes here.">
+    <meta property="og:url" content="https://www.yourwebsite.com">
+    <meta property="og:image" content="https://www.yourwebsite.com/images/your-image.jpg">
+    <meta property="og:type" content="website">
+    <meta name="twitter:title" content="Your Website Title">
+    <meta name="twitter:description" content="Your website description goes here.">
+    <meta name="twitter:image" content="https://www.yourwebsite.com/images/your-image.jpg">
+    <meta name="twitter:card" content="summary_large_image">
 </head>
 <body>
    
