@@ -28,10 +28,10 @@
   <a href="https://nethmeekumararatne-portfolio.vercel.app/">Portfolio</a> 
  🌱-->
 <p align="center">
-🌱<a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a><br/>
-🌱<a href="https://medium.com/@kumararatnenethmee" target="blank">Medium</a><br/>
-🌱<a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> <br/>
-🌱<a href="+94765839653"> +94 765839653 </a><br/>
+🌱<a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a><br/>🌱
+🌱<a href="https://medium.com/@kumararatnenethmee" target="blank">Medium</a><br/>🌱
+🌱<a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> <br/>🌱
+🌱<a href="+94765839653"> +94 765839653 </a><br/>🌱
 </p>
 
  </p>
