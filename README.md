@@ -20,8 +20,10 @@
 </head>
 <body>
 <p><b> 👋 HEY! 😊 </b></p>
-<p align="justify"> I'm a software engineer with 6+ years of experience in frontend development and I have worked on both frontend and backend project development under various domains specializing in building innovative products and software applications using the latest programming languages and technologies.</p>
-<p> I am open to relocation opportunities around the world to work..🤜</p>
+<p align="justify"> I'm Nethmee Kumararatne. I'm a UIUX Engineer with over 6 years of experience. I do UIUX design & development / Frontend Development with React.Js and other frontend frameworks and programming languages. I have experience in software testing, debugging, support and business requirement analysis as well. I have worked with foreign & multinational remote companies previously. Now I'm looking for remote or relocation opportunities in Singapore and overseas countries."></p>
+    
+<p> I am open to remote or relocation opportunities around the world to work..🤜</p>
+
 <p> I have followed a BSc(Hons) Software Engineering degree 👨‍🎓 from the University of Plymouth in the United Kingdom.</p>
 <p align="left">
   <!--🌱
@@ -30,7 +32,7 @@
 <p align="center">
 🌱<a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a><br/>
 🌱<a href="https://medium.com/@kumararatnenethmee" target="blank">Medium</a><br/>
-🌱<a href="https://stackoverflow.com/users/22399892/nethmeekumararatne" target="blank>StackOverFlow</a><br/>
+🌱<a href="https://stackoverflow.com/users/22399892/nethmeekumararatne" target="blank">StackOverFlow</a><br/>
 🌱<a href="https://kumararatnenethmee.wixsite.com/nethmeekumararatne-1" target="blank">Portfolio</a><br/>
 🌱<a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> <br/>
 🌱<a href="+94765839653"> +94 765839653 </a><br/>
