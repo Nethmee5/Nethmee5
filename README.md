@@ -7,12 +7,12 @@
     <meta name="keywords" content="Frontend Developer, ReactJs, Open for relocation">
     <meta name="author" content="Nethmee Kumararatne">
     <meta property="og:title" content="Nethmee Kumararatne">
-    <meta property="og:description" content="I'm Nethmee Kumararatne. I'm a Software Engineer and have 6 years of experience in Frontend Development with React.Js and other frontend frameworks and programming languages. I have completed BSC(Hons)Software Engineering at University of Plymouth, United Kingdom in 2022. I worked in many foriegn national companies in previously. Now I'm lokking for a relocation opportunity to Singapore, Europe, Australiya, UK and USA countries.">
+    <meta property="og:description" content="I'm Nethmee Kumararatne. I'm a UIUX Engineer with over 6 years of experience. I do UIUX design & development / Frontend Development with React.Js and other frontend frameworks and programming languages. I have experience in software testing, debugging, support and business requirement analysis as well. I completed BSC(Hons) in Software Engineering at the University of Plymouth, United Kingdom in 2022. I worked in many foreign national companies previously. Now I'm looking for a relocation opportunity to Singapore, Europe, Australia, UK and USA countries.">
     <meta property="og:url" content="(https://nethmeekumararatne-portfolio.vercel.app/](https://nethmeekumararatne-portfolio.vercel.app/)">
     <meta property="og:type" content="website">
     <meta name="linkedin:title" content="Nethmee Kumararatne">
   <meta property="linkedin:url" content="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/">
-    <meta name="linkedin:description" content="Software Engineer | ReactJs Development | UIUX Design | Coding | QA & Testing | Debugging | Technical Support | Communication|| Open to relocate📌👋 || React || .NET || Web Services || SDLC || MySQL 💻🌏">
+    <meta name="linkedin:description" content="UIUX Engineering | React Development | UI Development | UIUX Design | Coding | QA & Testing | Debugging | Technical Support | Communication|| Open to relocate📌👋 || React || .NET || Web Services || SDLC || MySQL 💻🌏">
     <meta name="linkedin:image" content="(https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)">
     <meta name="linkedin:card" content="summary_large_image">
       <meta property="medium:url" content="https://medium.com/@kumararatnenethmee">
@@ -21,7 +21,7 @@
 <body>
 <p><b> 👋 HEY! 😊 </b></p>
 <p align="justify"> I'm a software engineer with 6+ years of experience in frontend development and I have worked on both frontend and backend project development under various domains specializing in building innovative products and software applications using the latest programming languages and technologies.</p>
-<p> I am open for relocation opportunies around the world to work..🤜</p>
+<p> I am open to relocation opportunities around the world to work..🤜</p>
 <p> I have followed a BSc(Hons) Software Engineering degree 👨‍🎓 from the University of Plymouth in the United Kingdom.</p>
 <p align="left">
   <!--🌱
@@ -30,13 +30,15 @@
 <p align="center">
 🌱<a href="https://www.linkedin.com/in/nethmee-kumararatne-a93b051b7/" target="blank">Linkedin</a><br/>
 🌱<a href="https://medium.com/@kumararatnenethmee" target="blank">Medium</a><br/>
+🌱<a href="https://stackoverflow.com/users/22399892/nethmeekumararatne" target="blank>StackOverFlow</a><br/>
+🌱<a href="https://kumararatnenethmee.wixsite.com/nethmeekumararatne-1" target="blank">Portfolio</a><br/>
 🌱<a href="kumararatnenethmee@gmail.com">Email : kumararatnenethmee@gmail.com</a> <br/>
 🌱<a href="+94765839653"> +94 765839653 </a><br/>
 </p>
 
  </p>
 <h3 align="center"> KEY Skills 👇 </h3> 
- <p> 👉 Front-end frameworks: ReactJs, Javascript, Typescript, AJAX, Vue.JS, JQuery, HTML5, CSS3, SCSS, JSX, ES6, Eslint, DOM manipulation, ECMAScript, ReactJs Virtual DOM, React - Router, npm, webpack, hooks, redux, middleware, RXJS , Boostrap, Media Query, Material UI, C#, Asp.Net, MVC</p>
+ <p> 👉 Front-end frameworks: ReactJs, Javascript, Typescript, AJAX, Vue.JS, JQuery, HTML5, CSS3, SCSS, JSX, ES6, Eslint, DOM manipulation, ECMAScript, ReactJs Virtual DOM, React - Router, npm, webpack, hooks, redux, middleware, RXJS, Boostrap, Media Query, Material UI, C#, Asp.Net, MVC</p>
 <p> 👉 Back-end programming languages/frameworks & Databases: NodeJS, PHP, Java, Spring Boot, C#, .NET/.NET Core, .NET Framework, SQL Server, Relational Databases (MySQL) </p>
 <p> 👉 Version Control Technologies: Azure, GIT, GitHub, Gitlab, Bitbucket</p>
 <p> 👉 Development Technologies: REST APIs, JSON, XML, CI/CD pipelines, Micro-Frontend architecture, Windows, IIS Server, Web API, AWS, HTTP </p>
