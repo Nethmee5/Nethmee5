@@ -20,9 +20,9 @@
 </head>
 <body>
 <p><b> 👋 HEY! 😊 </b></p>
-<p align="justify"> I'm Nethmee Kumararatne. I'm a UIUX Engineer with over 6 years of experience. I do UIUX design & development / Frontend Development with React.Js and other frontend frameworks and programming languages. I have experience in software testing, debugging, support and business requirement analysis as well. I have worked with foreign & multinational remote companies previously. Now I'm looking for remote or relocation opportunities in Singapore and overseas countries."></p>
+<p align="justify"> I'm Nethmee Kumararatne. I'm a UIUX Engineer with over 6 years of experience. I do UIUX design & development / Frontend Development with React.Js and other frontend frameworks and programming languages. I have experience in software testing, debugging, support and business requirement analysis as well. I have worked with foreign & multinational remote companies previously. Now I'm looking for remote or relocation opportunities in Singapore and overseas countries."</p>
     
-<p> I am open to remote or relocation opportunities around the world to work..🤜</p>
+<p> 😊 I am open to remote or relocation opportunities around the world to work..🤜</p>
 
 <p> I have followed a BSc(Hons) Software Engineering degree 👨‍🎓 from the University of Plymouth in the United Kingdom.</p>
 <p align="left">
