@@ -35,7 +35,7 @@
 🌱<a href="https://stackoverflow.com/users/22399892/nethmeekumararatne" target="blank">StackOverFlow</a><br/>
 🌱<a href="https://kumararatnenethmee.wixsite.com/nethmeekumararatne-1" target="blank">Portfolio</a><br/>
 🌱<a href="kumararatnenethmee@gmail.com">kumararatnenethmee@gmail.com</a> <br/>
-🌱<a href="+94765839653"> +94 765839653 </a><br/>
+🌱<a href="+94765839653"> +60 11 2345 2246 / +94 765839653 </a><br/>
 </p>
 
  </p>
