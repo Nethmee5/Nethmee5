@@ -7,7 +7,7 @@
     <meta name="keywords" content="Frontend Developer, ReactJs, Open for relocation">
     <meta name="author" content="Nethmee Kumararatne">
     <meta property="og:title" content="Nethmee Kumararatne">
-    <meta property="og:description" content="I'm Nethmee Kumararatne. I'm a UIUX Engineer with over 6 years of experience. I do UIUX design & development / Frontend Development with React.Js and other frontend frameworks and programming languages. I have experience in software testing, debugging, support and business requirement analysis as well. I completed BSC(Hons) in Software Engineering at the University of Plymouth, United Kingdom in 2022. I worked in many foreign national companies previously. Now I'm looking for a relocation opportunity to Singapore, Europe, Australia, UK and USA countries.">
+    <meta property="og:description" content="I'm Nethmee Kumararatne. I'm a UIUX Engineer with over 4 years of experience. I do UIUX design & development / Frontend Development with React.Js and other frontend frameworks and programming languages. I have experience in software testing, debugging, support and business requirement analysis as well. I completed BSC(Hons) in Software Engineering at the University of Plymouth, United Kingdom in 2022. I worked in many foreign national companies previously. Now I'm looking for a relocation opportunity to Singapore, Europe, Australia, UK and USA countries.">
     <meta property="og:url" content="(https://nethmeekumararatne-portfolio.vercel.app/](https://nethmeekumararatne-portfolio.vercel.app/)">
     <meta property="og:type" content="website">
     <meta name="linkedin:title" content="Nethmee Kumararatne">
