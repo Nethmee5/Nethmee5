@@ -40,7 +40,7 @@
 
  </p>
 <h3 align="center"> KEY Skills 👇 </h3> 
- <p> 👉 Front-end frameworks: ReactJs, Javascript, Typescript, AJAX, Vue.JS, JQuery, HTML5, CSS3, SCSS, JSX, ES6, Eslint, DOM manipulation, ECMAScript, ReactJs Virtual DOM, React - Router, npm, webpack, hooks, redux, middleware, RXJS, Boostrap, Media Query, Material UI, C#, Asp.Net, MVC</p>
+ <p> 👉 Front-end frameworks: ReactJs, Javascript, Typescript, AJAX, Vue.JS, JQuery, HTML5, CSS3, SCSS, JSX, ES6, Eslint, DOM manipulation, ECMAScript, React Virtual DOM, React - Router, npm, webpack, hooks, redux, RXJS, Boostrap, Media Query, Material UI</p>
 <p> 👉 Back-end programming languages/frameworks & Databases: NodeJS, C#, .NET/.NET Core, .NET Framework, SQL Server, Relational Databases (MySQL) </p>
 <p> 👉 Version Control Technologies: Azure, Git, GitHub, Gitlab, Bitbucket</p>
 <p> 👉 Development Technologies: REST APIs, JSON, XML, CI/CD pipelines, Micro-Frontend architecture, Windows, IIS Server, Web API, HTTP </p>
